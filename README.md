@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @HuynhMi
-- 👀 I’m interested in working as an web developer.
-- 🌱 I’m currently learning coding by myself.
-- 📨 huynhmi1209@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mi-pham-a2522b196/
+👋 Thank for visting my github
+📨 huynhmi1209@gmail.com
+LinkedIn: https://www.linkedin.com/in/mi-pham-a2522b196/
